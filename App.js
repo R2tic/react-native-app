@@ -3,7 +3,6 @@ import { StyleSheet, View } from 'react-native';
 
 import PlaceInput from './src/components/PlaceInput/PlaceInput';
 import PlaceList from './src/components/PlaceList/PlaceList';
-import placeImage from './src/assets/tropical-place.jpg';
 
 export default class App extends React.Component {
     state = {
@@ -16,7 +15,10 @@ export default class App extends React.Component {
                 places: prevState.places.concat({
                     key: Math.random(),
                     name: placeName,
-                    image: placeImage
+                    image: {
+                        uri:
+                            'https://www.publicdomainpictures.net/pictures/150000/velka/tropical-beach-1454007190ZAK.jpg'
+                    }
                 })
             };
         });
