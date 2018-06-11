@@ -4,7 +4,7 @@
             "outputFile": "/Users/peoplecloud/workspace/react-native-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml",
             "map": [
                 {
-                    "source": "/Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/res/values-lo-rLA/values-lo-rLA.xml",
+                    "source": "/Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/res/values-lo-rLA/values-lo-rLA.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

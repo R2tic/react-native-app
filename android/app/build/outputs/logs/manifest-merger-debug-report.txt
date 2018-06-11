@@ -4,18 +4,19 @@ ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/An
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/6f5fc55917e529f15df205870ff22fcf/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/13567c112d9f4b76bde28c3ea8b22105/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/1c4ee08b4aa001f785a1a8c688fbe1a7/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/bfc45477784685839f4c32ffaf27f09b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/912d5ce91c687e06fc3394b3803a8e6c/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/732b21021ea73eeac4e7ceefae1cf26f/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6ddbee2f4f5adcaa8a6ba9306bf9e6c7/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/96821ddd85f0523cf632ab53556adf7a/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/88d8fd6959403a354c40dd0304860d80/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cdc4fa9d1f0d830fb7323e60e2f157dc/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/peoplecloud/workspace/react-native-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4c10b46de1875d27f75068d2551fc4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ef0d7361506e532eaf49e278e810ab60/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e72ba673c549c6c5554a61a3d4672e04/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5b85fb8f8a2b5b7a8f664f9d48c61dbc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a7736d4dc7073884e0eeb800426608fa/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dd4fa27420786538657bdeeaea1d01b8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/cfd75d2dcb37aa6067f41c0f86523026/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/693bb04229520668f3a0ce3aec5abfa6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/55c87f449c7f6c0fbfc3c2b98724c827/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cf22fa1deb2102b17353035e42b1c32c/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12
@@ -39,22 +40,22 @@ ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/An
 		ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/6f5fc55917e529f15df205870ff22fcf/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/6f5fc55917e529f15df205870ff22fcf/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/912d5ce91c687e06fc3394b3803a8e6c/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/912d5ce91c687e06fc3394b3803a8e6c/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/732b21021ea73eeac4e7ceefae1cf26f/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/732b21021ea73eeac4e7ceefae1cf26f/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4c10b46de1875d27f75068d2551fc4a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4c10b46de1875d27f75068d2551fc4a/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a7736d4dc7073884e0eeb800426608fa/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a7736d4dc7073884e0eeb800426608fa/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dd4fa27420786538657bdeeaea1d01b8/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/dd4fa27420786538657bdeeaea1d01b8/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
@@ -93,28 +94,30 @@ uses-sdk
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/2879990157c53be8209fb12195dc89c8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/463efb2136c4487d5788b0258989ca7c/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/6f5fc55917e529f15df205870ff22fcf/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/6f5fc55917e529f15df205870ff22fcf/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/13567c112d9f4b76bde28c3ea8b22105/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/13567c112d9f4b76bde28c3ea8b22105/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/1c4ee08b4aa001f785a1a8c688fbe1a7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/1c4ee08b4aa001f785a1a8c688fbe1a7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/bfc45477784685839f4c32ffaf27f09b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/bfc45477784685839f4c32ffaf27f09b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/912d5ce91c687e06fc3394b3803a8e6c/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/912d5ce91c687e06fc3394b3803a8e6c/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6ddbee2f4f5adcaa8a6ba9306bf9e6c7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/6ddbee2f4f5adcaa8a6ba9306bf9e6c7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/96821ddd85f0523cf632ab53556adf7a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/96821ddd85f0523cf632ab53556adf7a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/88d8fd6959403a354c40dd0304860d80/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/88d8fd6959403a354c40dd0304860d80/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cdc4fa9d1f0d830fb7323e60e2f157dc/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cdc4fa9d1f0d830fb7323e60e2f157dc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/peoplecloud/workspace/react-native-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/peoplecloud/workspace/react-native-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9c87f6f3e7710d7d7c3d1d71bb28624c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4c10b46de1875d27f75068d2551fc4a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4c10b46de1875d27f75068d2551fc4a/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ef0d7361506e532eaf49e278e810ab60/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ef0d7361506e532eaf49e278e810ab60/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e72ba673c549c6c5554a61a3d4672e04/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e72ba673c549c6c5554a61a3d4672e04/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5b85fb8f8a2b5b7a8f664f9d48c61dbc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5b85fb8f8a2b5b7a8f664f9d48c61dbc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a7736d4dc7073884e0eeb800426608fa/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/a7736d4dc7073884e0eeb800426608fa/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/cfd75d2dcb37aa6067f41c0f86523026/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/cfd75d2dcb37aa6067f41c0f86523026/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/693bb04229520668f3a0ce3aec5abfa6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/693bb04229520668f3a0ce3aec5abfa6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/55c87f449c7f6c0fbfc3c2b98724c827/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/55c87f449c7f6c0fbfc3c2b98724c827/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cf22fa1deb2102b17353035e42b1c32c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/cf22fa1deb2102b17353035e42b1c32c/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/peoplecloud/workspace/react-native-app/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
