@@ -12,3 +12,5 @@ brew cask uninstall android-sdk
 
 adb not found 
 export PATH="/Users/peoplecloud/Library/Android/sdk/platform-tools":$PATH
+
+export ANDROID_HOME=/Users/peoplecloud/Library/Android/sdk && export ANDROID_SDK_ROOT=$ANDROID_HOME

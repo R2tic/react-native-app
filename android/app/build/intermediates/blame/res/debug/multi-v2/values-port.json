@@ -4,15 +4,8 @@
             "outputFile": "/Users/peoplecloud/workspace/react-native-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/15f566bae3e038671466e04660c37fc6/res/values-port/values-port.xml",
+                    "source": "/Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4ef8ea35bff7337385f955c853e55e7d/res/values-port/values-port.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "280",
-                        "endColumns": "55",
-                        "endOffsets": "331"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
