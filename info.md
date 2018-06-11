@@ -10,3 +10,5 @@ adb reverse tcp:8081 tcp:8081
 ANDROID_SDK_ROOT
 brew cask uninstall android-sdk
 
+adb not found 
+export PATH="/Users/peoplecloud/Library/Android/sdk/platform-tools":$PATH
