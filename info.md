@@ -5,12 +5,12 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 react-native run-android
 
 Could not connect to development server on android emulator and on real device
-adb reverse tcp:8081 tcp:8081
+
 
 ANDROID_SDK_ROOT
 brew cask uninstall android-sdk
 
 adb not found 
 export PATH="/Users/peoplecloud/Library/Android/sdk/platform-tools":$PATH
-
 export ANDROID_HOME=/Users/peoplecloud/Library/Android/sdk && export ANDROID_SDK_ROOT=$ANDROID_HOME
+adb reverse tcp:8081 tcp:8081

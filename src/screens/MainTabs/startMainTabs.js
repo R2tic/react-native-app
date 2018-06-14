@@ -22,6 +22,8 @@ const startTabas = () => {
                 }
             ]
         });
+    }).catch(error => {
+
     });
 };
 
