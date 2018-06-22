@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/peoplecloud/workspace/react-native-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/peoplecloud/Workspace/react-native-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/peoplecloud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4ef8ea35bff7337385f955c853e55e7d/res/values-vi/values-vi.xml",
