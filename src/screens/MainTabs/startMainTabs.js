@@ -15,10 +15,11 @@ const startTabas = () => {
                     title: 'Find Place',
                     icon: sources[0],
                     navigatorButtons: {
-                        leftButtons: {
+                        leftButtons: [{
                             icon: sources[2],
-                            title: 'Menu'
-                        }
+                            title: 'Menu',
+                            id: 'SideDrawerToggle'
+                        }]
                     }
                 },
                 {
@@ -27,10 +28,11 @@ const startTabas = () => {
                     title: 'Share Place',
                     icon: sources[1],
                     navigatorButtons: {
-                        leftButtons: {
+                        leftButtons: [{
                             icon: sources[2],
-                            title: 'Menu'
-                        }
+                            title: 'Menu',
+                            id: 'SideDrawerToggle'
+                        }]
                     }
                 }
             ],
