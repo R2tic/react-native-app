@@ -9,6 +9,27 @@ import ButtonWithBackground from '../../components/UI/ButtonWithBackground/Butto
 import backgroundImage from '../../assets/background.jpg';
 
 class AuthScreen extends Component {
+    state = {
+        respStyles: {
+            pwDirectionContainer: 'column',
+            pwDirectionJustifyContent: 'flex-start',
+            pwWrapperWidth: '100%'
+        }
+    }
+
+    constructor(props) {
+        super(props);
+        Dimensions.addEventListener('change', (dims) => {
+            this.setState({
+                respStyles: {
+                    pwDirectionContainer: Dimensions.get('window').height > 500 ? 'column' : 'row',
+                    pwDirectionJustifyContent: Dimensions.get('window').height > 500 ? 'flex-start' : 'space-between',
+                    pwWrapperWidth: Dimensions.get('window').height > 500 ? '100%' : '48%'
+                }
+            });
+        });
+    }
+
     loginHandler = () => {
         startMainTabs();
     };
@@ -31,11 +52,24 @@ class AuthScreen extends Component {
                     <ButtonWithBackground color="#29aaf4">Switch to Login</ButtonWithBackground>
                     <View style={styles.inputContainer}>
                         <DefaultInput placeholder="Your E-Mail Addess" style={styles.input} />
-                        <View style={styles.passwordContainer}>
-                            <View style={styles.passwordWrapper}>
+                        <View
+                            style={{
+                                flexDirection: this.state.respStyles.pwDirectionContainer,
+                                justifyContent: this.state.respStyles.pwDirectionJustifyContent
+                            }}
+                        >
+                            <View
+                                style={{
+                                    width: this.state.respStyles.pwWrapperWidth
+                                }}
+                            >
                                 <DefaultInput placeholder="Password" style={styles.input} />
                             </View>
-                            <View style={styles.passwordWrapper}>
+                            <View
+                                style={{
+                                    width: this.state.respStyles.pwWrapperWidth
+                                }}
+                            >
                                 <DefaultInput placeholder="Confirm Password" style={styles.input} />
                             </View>
                         </View>
