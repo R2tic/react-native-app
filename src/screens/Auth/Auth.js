@@ -163,6 +163,7 @@ class AuthScreen extends Component {
                         }
                         valid={this.state.controls.confirmPassword.valid}
                         touched={this.state.controls.confirmPassword.touched}
+                        secureTextEntry
                     />
                 </View>
             );
@@ -192,6 +193,9 @@ class AuthScreen extends Component {
                             }
                             valid={this.state.controls.email.valid}
                             touched={this.state.controls.email.touched}
+                            autoCapitalize="none"
+                            autoCorrect={false}
+                            keyboardType="email-address"
                         />
                         <View
                             style={
@@ -220,6 +224,7 @@ class AuthScreen extends Component {
                                     touched={
                                         this.state.controls.password.touched
                                     }
+                                    secureTextEntry
                                 />
                             </View>
                             {confirmPasswordControll}
