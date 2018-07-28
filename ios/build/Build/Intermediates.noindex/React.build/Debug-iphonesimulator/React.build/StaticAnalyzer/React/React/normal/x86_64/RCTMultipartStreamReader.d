@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/peoplecloud/workspace/react-native-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/peoplecloud/workspace/react-native-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/peoplecloud/Workspace/react-native-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/peoplecloud/Workspace/react-native-app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
